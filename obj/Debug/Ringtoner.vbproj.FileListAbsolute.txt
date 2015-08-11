@@ -1,0 +1,14 @@
+D:\Visual Studio 2008\Projects\Ringtoner\Ringtoner\bin\Debug\Ringtoner.exe
+D:\Visual Studio 2008\Projects\Ringtoner\Ringtoner\bin\Debug\Ringtoner.pdb
+D:\Visual Studio 2008\Projects\Ringtoner\Ringtoner\bin\Debug\Ringtoner.xml
+D:\Visual Studio 2008\Projects\Ringtoner\Ringtoner\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2008\Projects\Ringtoner\Ringtoner\obj\Debug\Ringtoner.File.resources
+D:\Visual Studio 2008\Projects\Ringtoner\Ringtoner\obj\Debug\Ringtoner.Resources.resources
+D:\Visual Studio 2008\Projects\Ringtoner\Ringtoner\obj\Debug\Ringtoner.vbproj.GenerateResource.Cache
+D:\Visual Studio 2008\Projects\Ringtoner\Ringtoner\obj\Debug\Ringtoner.exe
+D:\Visual Studio 2008\Projects\Ringtoner\Ringtoner\obj\Debug\Ringtoner.xml
+D:\Visual Studio 2008\Projects\Ringtoner\Ringtoner\obj\Debug\Ringtoner.pdb
+D:\Visual Studio 2008\Projects\Ringtoner\Ringtoner\obj\Debug\Ringtoner.MainForm.resources
+C:\dev\Ringtoner\Ringtoner\Ringtoner\obj\Debug\Ringtoner.exe
+C:\dev\Ringtoner\Ringtoner\Ringtoner\obj\Debug\Ringtoner.xml
+C:\dev\Ringtoner\Ringtoner\Ringtoner\obj\Debug\Ringtoner.pdb

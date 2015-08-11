@@ -1,0 +1,22 @@
+C:\dev\Ringtoner\Ringtoner\Ringtoner\bin\Release\Ringtoner.exe
+C:\dev\Ringtoner\Ringtoner\Ringtoner\bin\Release\Ringtoner.pdb
+C:\dev\Ringtoner\Ringtoner\Ringtoner\bin\Release\Ringtoner.xml
+C:\dev\Ringtoner\Ringtoner\Ringtoner\obj\Release\ResolveAssemblyReference.cache
+C:\dev\Ringtoner\Ringtoner\Ringtoner\obj\Release\Ringtoner.File.resources
+C:\dev\Ringtoner\Ringtoner\Ringtoner\obj\Release\Ringtoner.MainForm.resources
+C:\dev\Ringtoner\Ringtoner\Ringtoner\obj\Release\Ringtoner.Resources.resources
+C:\dev\Ringtoner\Ringtoner\Ringtoner\obj\Release\Ringtoner.vbproj.GenerateResource.Cache
+C:\dev\Ringtoner\Ringtoner\Ringtoner\obj\Release\Ringtoner.exe
+C:\dev\Ringtoner\Ringtoner\Ringtoner\obj\Release\Ringtoner.xml
+C:\dev\Ringtoner\Ringtoner\Ringtoner\obj\Release\Ringtoner.pdb
+C:\Users\Mark\Desktop\Ringtoner\Ringtoner\Ringtoner\Ringtoner\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Mark\Desktop\Ringtoner\Ringtoner\Ringtoner\Ringtoner\obj\Release\Ringtoner.File.resources
+C:\Users\Mark\Desktop\Ringtoner\Ringtoner\Ringtoner\Ringtoner\obj\Release\Ringtoner.MainForm.resources
+C:\Users\Mark\Desktop\Ringtoner\Ringtoner\Ringtoner\Ringtoner\obj\Release\Ringtoner.Resources.resources
+C:\Users\Mark\Desktop\Ringtoner\Ringtoner\Ringtoner\Ringtoner\obj\Release\Ringtoner.vbproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\Ringtoner\Ringtoner\Ringtoner\Ringtoner\bin\Release\Peek Ringtoner.exe
+C:\Users\Mark\Desktop\Ringtoner\Ringtoner\Ringtoner\Ringtoner\bin\Release\Peek Ringtoner.pdb
+C:\Users\Mark\Desktop\Ringtoner\Ringtoner\Ringtoner\Ringtoner\bin\Release\Peek Ringtoner.xml
+C:\Users\Mark\Desktop\Ringtoner\Ringtoner\Ringtoner\Ringtoner\obj\Release\Peek Ringtoner.exe
+C:\Users\Mark\Desktop\Ringtoner\Ringtoner\Ringtoner\Ringtoner\obj\Release\Peek Ringtoner.xml
+C:\Users\Mark\Desktop\Ringtoner\Ringtoner\Ringtoner\Ringtoner\obj\Release\Peek Ringtoner.pdb

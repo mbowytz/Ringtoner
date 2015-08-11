@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Peek>
+  <ScrollTimeout>30</ScrollTimeout>
+  <Ring>
+    <Name>Peek</Name>
+  </Ring>
+  <Ring>
+    <Name>Sunrise</Name>
+  </Ring>
+  <Ring>
+    <Name>Nightfall</Name>
+  </Ring>
+  <Ring>
+    <Name>SMB Theme</Name>
+  </Ring>
+  <Ring>
+    <Name>1up</Name>
+  </Ring>
+</Peek>
